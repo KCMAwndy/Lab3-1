@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main() {
+    //loop untill get 1 digit
     long long int num, sum = 0;
     scanf("%lld", &num);
     printf("%lld ->", num);
